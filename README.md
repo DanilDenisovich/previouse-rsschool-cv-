@@ -1,2 +1,2 @@
 # rsschool-cv
-https://github-Danil_Afanasiev.github.io/rsschool-cv/cv
+https://github.com/DanilDenisovich/rsschool-cv/blob/gh-pages/cv.md
