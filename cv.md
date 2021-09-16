@@ -1,4 +1,4 @@
-# [rsschool-cv](https://github-Danil_Afanasiev.github.io/rsschool-cv/cv)
+# [rsschool-cv](https://github.com/DanilDenisovich/rsschool-cv/blob/gh-pages/cv.md)
 # Afanasiev Danil Denisovich
 ___
 ## RSS Student
